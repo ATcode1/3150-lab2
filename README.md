@@ -1,5 +1,5 @@
 # 3150-lab2
  
-g++ generator.cpp -o a -std=c++14
+g++ generator.cpp unittests.cpp
 
-./a
+./a.out
